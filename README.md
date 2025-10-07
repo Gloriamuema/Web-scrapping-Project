@@ -17,6 +17,7 @@ Technologies Used
 
 # Installation & Setup
 # Clone the Repository
+# Use CMD and VS Code 
 git clone https://github.com/Gloriamuema/Web-scrapping-Project.git
 cd Web-scrapping-Project
 
@@ -70,3 +71,5 @@ Software Engineer,KCB Bank,"Nakuru, Kenya",Tech
 Marketing Executive,KenGen,"Thika, Kenya",Other
 Data Analyst,EABL,"Thika, Kenya",Tech
 
+# Future improvements
+This tool will have links to the various jobs  for candidate to apply them.
